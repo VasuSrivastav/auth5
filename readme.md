@@ -1,5 +1,9 @@
 # ✨ Auth Secret Project ✨
 
+
+https://github.com/user-attachments/assets/9dce3036-bddd-4276-95b2-038bfaf8f9c2
+
+
 ## Highlights:
 
 🌟 **Tech stack:**  Express ,EJS  
